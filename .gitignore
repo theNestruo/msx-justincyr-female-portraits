@@ -1,0 +1,4 @@
+~tmppre.*
+*.sym
+java/target
+resources/*.png
